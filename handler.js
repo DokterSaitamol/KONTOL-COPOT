@@ -647,7 +647,7 @@ esteh: 0,
 					soal: null
 				}
           global.kontak2 = [
-        ['62xxxx', 'Rull Paling Ganteng', 'Developer Bot', 'Creator Bot', 'Pembuat Script Bot', true],
+        ['62812604310031', 'Fathurxyz', 'Developer Bot', 'Creator Bot', 'Pembuat Script Bot', true],
         [`${nomorown}`, `${nameown}`, 'Owner Bot', 'Owner Bot', true]
         ]
             let settings = global.db.data.settings[this.user.jid]

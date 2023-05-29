@@ -35,28 +35,28 @@ global.namesesi = 'rullzy.data'//.json
 global.chisato = 'https://telegra.ph/file/ba45593f90a12008abfb4.jpg'
 global.qr = 'https://telegra.ph/file/21e252f71926f7fa0c931.jpg' //Buat Ganti Thumb Qr Gopay Lu
 global.logotime = 'https://telegra.ph/file/8e9bf0c5db8ec095a85bc.jpg' //Jan Diubah Eror Nanges
-global.sig = 'https://instagram.com/khoirul36_'
+global.sig = 'https://instagram.com/fthrxyzz'
 global.syt = 'https://youtube.com/channel/UC1oSMQCd3XKVxYwSh4RE2Nw'
 global.sgh = 'https://github.com/Carisendiri:v'
-global.sgc = 'https://chat.whatsapp.com/KOxDMDVKO8h9pS8abkaax6'
-global.swa = 'wa.me/6287753812675'
+global.sgc = 'https://chat.whatsapp.com/CTfXIpkHWMLEwVulaBWwbz'
+global.swa = 'wa.me/6281260431003'
 global.swb = 'https://'
 global.snh = 'https://nhentai.net/g/365296/' //Make ini aja gausah di ganti.
-global.pdana = '-'
+global.pdana = '081260431003'
 global.povo = '-'
 global.pgopay = '-'
-global.ppulsa = '-'
-global.ppulsa2 = '-'
+global.ppulsa = '081260431003'
+global.ppulsa2 = '081260431003'
 global.psaweria = 'https://bit.ly/3eggcxd'
 /*InfoBot*/
 global.nomorbot = '-'
-global.nomorown = '6287753812675'
+global.nomorown = '6281260431003'
 global.namebot = 'Legacy Bot'
-global.nameown = 'KhrlMstfa'
+global.nameown = 'Fathur???'
 global.rul = 'https://telegra.ph/file/0a4fa7e5726f921ac52b7.jpg' //Jangan Diapus Ya Kids Nanti Eror Nangis Haha
 /*StaffBot*/
 global.owner = [
-  ['6287753812675', 'Rull', 'true']
+  ['6281260431003', 'Rull', 'true']
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -115,18 +115,18 @@ global.neo = ''
 global.rose = '68d0600415fd8fc2b9e48c39'
 
 /*Wm*/
-global.wm = 'Legacy V2 Public' //Main Watermark
-global.wm2 = 'LegacyV2'
-global.wm3 = 'LegacyV2 Bot | By Rull'
+global.wm = '𝙻𝚎𝚐𝚊𝚌𝚢 𝚅2 Public' //Main Watermark
+global.wm2 = '𝙻𝚎𝚐𝚊𝚌𝚢𝚅2'
+global.wm3 = '𝙻𝚎𝚐𝚊𝚌𝚢𝚅2 Bot | By 𝑭𝒂𝒕𝒉𝒖𝒓'
 global.wm4 = '@LegacyV2.js'
 global.wmvip = 'Scan Kode Qr Diatas Dan Jangan Lupa Kirim Bukti Pembayaran Ke Owner Bot!'
 global.botdate = `⻝ Tanggal: ${week} ${date}\n⻝ Waktu: ${wktuwib}`
 global.bottime = `⻝ W A K T U : ${wktuwib}`
-global.titlebot = `LegacyBot | ʙʏ ${global.nameown}`
-global.author = 'KhrlMstfa' 
-global.packname = 'By RullZY'
+global.titlebot = `𝙻𝚎𝚐𝚊𝚌𝚢𝙱𝚘𝚝 | ʙʏ ${global.nameown}`
+global.author = '𝑭𝒂𝒕𝒉𝒖𝒓' 
+global.packname = 'By 𝑭𝒂𝒕𝒉𝒖𝒓??'
 global.danied = '✘ 𝗘𝗥𝗢𝗥 𝟰𝟬𝟰'
-global.ultahowner = 'Oktober 21 2022' //Ganti Ultah Lu Disini
+global.ultahowner = 'February 12 2024' //Ganti Ultah Lu Disini
 
 /*ImageBuffer*/
 global.thumb = 'https://telegra.ph/file/8a1c663c84751c10baf65.jpg' //Main Thumbnail
@@ -140,11 +140,11 @@ global.thumbWarn = 'https://telegra.ph/file/77d11b06617f0797a45ac.jpg'
 global.botintro = 'Hallo, Kenalin saya RullBOT Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh *KhrlMstfa✓* Saya di rilis pada tanggal\n🗓 ️_23/11/2022_'
 global.intro = 'https://telegra.ph/file/ac799c2925c618939e5a9.jpg'
 /*BioOwn*/
-global.nameowner = 'Rull?'
-global.umurowner = '16'
-global.asalowner = 'Jatim, Trenggalek'
-global.nomorowner = 'wa.me/6287753812675'
-global.pacarowner = 'Kepo amat sih;v'
+global.nameowner = 'Fathur??'
+global.umurowner = '17'
+global.asalowner = 'Sumatera Utara,Medan'
+global.nomorowner = 'wa.me/6281260431003'
+global.pacarowner = 'KAGAK ADA ANJ'
 
 /*Text*/
 global.wait = '```𝙇𝙤𝙖𝙙𝙞𝙣𝙜...```'
@@ -385,7 +385,7 @@ global.hwaifu = ['https://i.pinimg.com/originals/ed/34/f8/ed34f88af161e6278993e1
 'https://i.pinimg.com/originals/80/4f/1a/804f1a05f9996c96a2d492b4854b7fd5.jpg']
 /*============== STICKER WM ==============*/
 global.stickpack = 'ᴍᴀᴅᴇ ʙʏ'
-global.stickauth = `Rullz✓`
+global.stickauth = `Fathur✓`
 
 global.multiplier = 38 // The higher, The harder levelup
 
